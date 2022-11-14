@@ -1,2 +1,4 @@
 # Android-Projects
-Repository for my projects made in Android Studio
+My projects made in Android Studio. 
+
+Notification Killer - To implement a Do not disturb feature in app.
